@@ -1,0 +1,4 @@
+images: google.ca / personal photos
+js script: https://github.com/robnyman/robnyman.github.com/blob/master/fullscreen/index.html
+video: youtube 
+https://getbootstrap.com/
